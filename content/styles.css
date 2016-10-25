@@ -1,0 +1,73 @@
+.border1 {
+    border-width: 7px;
+    border-color: #ff0000;
+    border-style: ridge;
+}
+
+.font-color-red {
+    color: hotpink;
+}
+
+.font-color-white {
+    color: white;
+}
+
+.woe {
+    border-top: 5px solid purple;
+    border-bottom: 5px solid purple;
+    border-radius: 130px;
+}
+
+.padding {
+    padding: 30px;
+}
+
+aside {
+    width: 400px;
+    background-color: red;
+    float: right;
+    padding-top: 10px;
+    margin-top: 70px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.highlight {
+    color: hotpink;
+}
+
+main {
+    width: 45%;
+    float: left;
+    margin: 70px;
+    background-color: black;
+}
+
+.footer-style {
+    clear: both;
+}
+
+.ca {
+    width: 70px;
+    position: fixed;
+    top: 150px;
+    left: 0;
+}
+
+body {
+    background-color: silver;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.relative {
+    display: block;
+    margin: 0 auto;
+}
+li {
+    display:inline;
+}
